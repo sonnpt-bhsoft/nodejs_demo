@@ -1,0 +1,18 @@
+@import 'variables';
+
+h1{
+    color: $color;
+}
+.card-course-items{
+    margin-top: 15px;
+}
+.user-avatar-item{
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    margin-right: 4px;
+}
+.checkbox-select-all-options{
+    width: 160px;
+    margin: 10px 16px;
+}
